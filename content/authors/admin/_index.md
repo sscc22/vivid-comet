@@ -3,7 +3,7 @@
 title: 김홍기
 
 # Name pronunciation (optional)
-name_pronunciation: Kim Honggi
+name_pronunciation: Kim Hong gi
 
 # Full name (for SEO)
 first_name: 김
@@ -116,4 +116,5 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+(주)건파워에서 게임 클라이언트 개발자로 활동하고 있으며 2년 동안 9개의 민간판매 콘텐츠를 제작했고 4개의 경찰 및 기관 납품 콘텐츠를 제작했습니다.
+국제치안산업대전(KPEX 2025)에 출품된 '흉기난동공조훈련' 개발을 당담하여 개발했습니다.
