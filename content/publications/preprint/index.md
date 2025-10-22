@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "유니티 힌지 조인트 사용시 주의점"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +16,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: target5_hinge.GetComponent<HingeJoint>().axis = target5_hinge.GetComponent<HingeJoint>().axis;
+
+위 코드를 보면 이상하다
+
+컴포넌트를 가져와서 그대로 컴포넌트에 대입했다
+
+아무런 일도 하지 않을 것 같지만 이걸 해줘야 바보같은 유니티 힌지가 자신의 각도를 인식한다 안하면 그냥 지 맘대로 정해버린다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 위 코드를 보면 이상하다
 
 tags:
-- Large Language Models
+- 유니티활용
 
 featured: true
 
@@ -53,7 +59,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -72,10 +78,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
