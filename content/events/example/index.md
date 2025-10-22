@@ -1,8 +1,6 @@
 ---
 title: 나의 목표
 
-event: ''
-event_url: ''
 
 location: ''
 address:
@@ -12,14 +10,12 @@ address:
   postcode: ''
   country: ''
 
-summary: 내용
-abstract: ''
+summary: 나의목표는..
+abstract: '나의 목표는 게임 회사에서 실력과 노하우를 배운다음 나만의 게임을 제작하는 것이다.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: ''
-all_day: false
+
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''
@@ -33,7 +29,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -59,14 +55,3 @@ slides: ""
 projects:
   - ''
 ---
-
-> [!NOTE]
-> Click on the **Slides** button above to view the built-in slides feature.
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
