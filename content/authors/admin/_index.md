@@ -1,6 +1,7 @@
 ---
 # Display name
 title: 김홍기
+tags: ["전북대", "컴퓨터인공지능학부", "GPA"]
 
 # Name pronunciation (optional)
 name_pronunciation: Kim Hong gi
