@@ -53,7 +53,19 @@ education:
     date_end: ''
     summary: |
       전북대학교 컴퓨터인공지능 학부과정 수료중
-      GPA: 4.0/4.0
+      GPA: 3.45/4.5
+      <br>
+
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.081233032779!2d127.12412207577874!3d35.846059672541474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35701b49d9c44f27%3A0x5cf9f9369e1b9ed0!2z7KCE7KO87J247ZWZ6rWQIOq0keyXreyLnCDsmIHsnbTtj6w!5e0!3m2!1sko!2skr!4v1730000000000!5m2!1sko!2skr"
+        width="100%"
+        height="250"
+        style="border:0; border-radius:10px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+      
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'

@@ -1,15 +1,14 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: 국제치안산업대전 출품 참여
+date: 2025-10-22
 links:
-  - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+  - type: game
+    url: https://www.instagram.com/p/DPS6NbrEcMR/?img_index=4
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - C#
+  - Unity
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+출품된 SMT에 사용되는 유니티 기반 콘텐츠 개발 참여
 
 <!--more-->
