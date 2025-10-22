@@ -75,7 +75,7 @@ work:
     date_start: 2023-10-16
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      게임 클라이언트 개발자로 23년도부터 활동중
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -94,19 +94,19 @@ skills:
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: 콘솔게임
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 75
+        icon: gamepad
+      - name: 인디게임 개발
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: computer
+      - name: sf소설
         description: ''
         percent: 70
         icon: book-open
