@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 공부내용들
       filters:
         folders:
           - publications

@@ -2,10 +2,9 @@
 title: "유니티 힌지 조인트 사용시 주의점"
 authors:
 - admin
-date: "2024-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+# publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,7 +24,7 @@ abstract: target5_hinge.GetComponent<HingeJoint>().axis = target5_hinge.GetCompo
   아무런 일도 하지 않을 것 같지만 이걸 해줘야 바보같은 유니티 힌지가 자신의 각도를 인식한다 안하면 그냥 지 맘대로 정해버린다.
 
 # Summary. An optional shortened abstract.
-summary: 위 코드를 보면 이상하다
+summary: 위 코드를 보면 이상하다 컴포넌트를 가져와서...
 
 tags:
 - 유니티활용
