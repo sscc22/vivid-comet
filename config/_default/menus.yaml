@@ -10,7 +10,7 @@ main:
   - name: Studies
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: AboutMe
     url: /#talks
     weight: 12
   # - name: News

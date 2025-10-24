@@ -44,14 +44,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 공부내용들
+      title: 공부내용
       filters:
         folders:
           - publications
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
